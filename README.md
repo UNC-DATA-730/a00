@@ -3,8 +3,8 @@
 > :warning: **Do not clone this repository directly.**
 > Use the 🍴 fork link on the assignment page in Canvas, then work in your own copy.
 
-Full step by step instructions, including how to submit, are on Canvas:
-[📋 Working on assignments](https://digitalcampus.instructure.com/courses/62502/pages/working-on-assignments)
+Full step by step instructions, including how to submit, are on Canvas. See the
+**📋 Working on assignments** page in the Toolbox module of our course.
 
 ## Quick version
 
